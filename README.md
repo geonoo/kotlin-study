@@ -1,3 +1,3 @@
 ## 코프링 공부
 
-https://www.inflearn.com/course/kotlin-%EC%9E%85%EB%AC%B8
+[코프링 맛보기 강의](https://inf.run/dPAGS)
