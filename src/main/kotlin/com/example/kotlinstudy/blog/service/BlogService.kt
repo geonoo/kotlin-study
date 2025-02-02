@@ -28,7 +28,7 @@ class BlogService(
                 .queryParam("page", blogDto.page)
                 .queryParam("size", blogDto.size)
                 .build() }
-            .header("Authorization", "KakaoAK eb897d81a1a6224f1aab3a048d00b7cd")
+            .header("Authorization", "")
             .retrieve()
             .bodyToMono<String>()
         val result = response.block()
